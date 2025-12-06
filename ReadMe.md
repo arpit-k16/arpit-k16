@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently studying at Bennett University.<br>🌱 I’m currently learning Data Analysis<br>
+🎓 B.Tech student at Bennett University<br>
+
+📊 Learning Data Analytics: SQL, Python (Pandas/Numpy), Statistics<br>
+
+📉 Building dashboards and performing end-to-end EDA<br>
+
+📚 Exploring real-world data projects & case studies<br>
 
 
 ## 🌐 Socials:
