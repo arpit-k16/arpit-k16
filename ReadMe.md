@@ -1,157 +1,64 @@
-👋 Hey, I'm Arpit Kumar
-
-Data Analytics • Python • SQL • AI/ML
-
-I'm a B.Tech student at Bennett University interested in turning data into useful insights and building practical, data-driven products.
-
-Currently strengthening my foundations in Data Analytics, Python, SQL, Statistics and Machine Learning while building real-world projects.
-
-🚀 What I'm Working On
-
-📊 Data Analytics
-
-SQL & analytical problem solving
-
-Python, Pandas & NumPy
-
-Exploratory Data Analysis
-
-Data visualization & dashboards
-
-Business-oriented insights
-
-🤖 AI / Machine Learning
-
-Machine Learning fundamentals
-
-Generative AI & LLM concepts
-
-RAG & Agentic AI
-
-Building practical AI systems
-
-🧩 Projects
-
-Business intelligence & analytics dashboards
-
-AI/ML applications
-
-End-to-end data projects
-
-Real-world datasets and case studies
-
-🛠️ Tech Stack
-
-Languages
+ProfileMe.dev
 
 
+Introduction
+Skills
+Socials
+Badges
+Support
+Go home
+© 2026 Dan Cranney
 
-Data & Analytics
+Follow me
+|
+Buy Me a Coffee
+Support
+Make it easy for people using your products to support you or give donations.
 
 
+Previous
+buymeacoffee
+Buy Me a Coffee:
+yourname
+kofi
+Ko-fi:
+yourname
 
-Development & Tools
+Previous
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arpit Kumar
+====================================================================================================================================
 
+Data Analyst | Python & SQL | Exploring AI/ML
+---------------------------------------------
 
+I'm a B.Tech student at Bennett University passionate about data, analytics and building practical technology. I work with Python, SQL, Pandas, NumPy, Power BI and statistics to turn data into meaningful insights. I'm also exploring Machine Learning, Generative AI and Agentic AI while building real-world projects and continuously improving my problem-solving skills.
 
-📌 Featured Work
-
-📊 Amazon E-Commerce QBR Dashboard
-
-A business-focused analytics project exploring e-commerce performance, KPIs, trends and actionable business recommendations.
-
-Tools: SQL • Power BI • Data Analysis
-
-🤖 HELIX
-
-An ongoing AI/data engineering project focused on building a structured, production-oriented system rather than just a standalone model.
-
-Focus: Python • FastAPI • APIs • Data Pipelines • AI/ML
-
-🚧 Actively building — this repository will evolve as new phases are completed.
-
-🧠 Machine Learning Projects
-
-Exploring practical ML workflows including:
-
-Data preprocessing
-
-Feature engineering
-
-Model development
-
-Evaluation
-
-Experimentation
-
-Real-world datasets
-
-More projects will be added as I continue building.
-
-📚 Currently Learning
-
-Python
- ├── OOP
- ├── Data Structures
- └── Data Analysis
-
-SQL
- ├── Joins
- ├── Aggregations
- ├── Window Functions
- └── Analytical Queries
-
-Data Analytics
- ├── EDA
- ├── Statistics
- ├── Power BI
- └── Business Intelligence
-
-AI / ML
- ├── Machine Learning
- ├── Deep Learning
- ├── Generative AI
- ├── RAG
- └── Agentic AI
-
-🏆 Learning & Experience
-
-🎓 B.Tech — Bennett University
-
-📚 Amazon ML Summer School 2026
-
-📊 Experience working on analytics projects involving startups, agritech and business datasets.
-
-📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit-k16&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-k16&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-k16&theme=tokyonight&hide_border=true"/>
-</p>
-
-🌐 Let's Connect
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [this link](http://www.datascienceportfol.io/ArpitKumar)
+* 🚀  I'm currently working on [HELIX — AI/Data Engineering Project](http://github.com/arpit-k16/Project-Helix)
+* 🧠  I'm currently learning Machine Learning • Generative AI • Agentic AI • Data Engineering
+* 👥  I'm looking to collaborate on Data Analytics • AI/ML • Python Projects • Open Source
+* 💬  Ask me about Turning data into insights, ideas into projects, and bugs into learning opportunities. 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arpit-kumar-671272188/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/arpit-k16">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
 </p>
 
-💡 A Little About Me
+### Socials
 
-I enjoy taking something that looks complicated, breaking it down, understanding how it works, and eventually building it myself.
+<p align="left"> <a href="https://www.github.com/arpit-k16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/arpit-kumar-261888315/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-Learning → Building → Breaking → Fixing → Improving
+<b>My GitHub Stats</b>
 
-That's basically my development cycle. 🚀
+<a href="http://www.github.com/arpit-k16"><img src="https://github-readme-stats.vercel.app/api?username=arpit-k16&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arpit-k16's GitHub stats" /></a>
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+<a href="http://www.github.com/arpit-k16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-k16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/arpit-k16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-k16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ProfileMe.dev | Create an amazing GitHub profile in minutes
