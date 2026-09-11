@@ -8,8 +8,6 @@
 
 <a href="https://www.datascienceportfol.io/ArpitKumar"><img src="https://img.shields.io/badge/Portfolio-View-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/arpit-kumar-261888315/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/vtarpit"><img src="https://img.shields.io/badge/X-@vtarpit-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
 </div>
 
 ---
