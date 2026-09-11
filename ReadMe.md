@@ -1,31 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arpit Kumar
-====================================================================================================================================
+<div align="center">
 
-Data Analyst | Python & SQL | Exploring AI/ML
----------------------------------------------
+# Hi, I'm Arpit Kumar 👋
 
-I'm a B.Tech student at Bennett University passionate about data, analytics and building practical technology. I work with Python, SQL, Pandas, NumPy, Power BI and statistics to turn data into meaningful insights. I'm also exploring Machine Learning, Generative AI and Agentic AI while building real-world projects and continuously improving my problem-solving skills.
+### Turning raw data into decisions — one query, one dashboard, one model at a time.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [this link](http://www.datascienceportfol.io/ArpitKumar)
-* 🚀  I'm currently working on [HELIX — AI/Data Engineering Project](http://github.com/arpit-k16/Project-Helix)
-* 🧠  I'm currently learning Machine Learning • Generative AI • Agentic AI • Data Engineering
-* 👥  I'm looking to collaborate on Data Analytics • AI/ML • Python Projects • Open Source
-* 💬  Ask me about Turning data into insights, ideas into projects, and bugs into learning opportunities. 🚀
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Python+%26+SQL;Exploring+ML+%2F+GenAI+%2F+Agentic+AI;Building+HELIX+%E2%80%94+an+AI+Data+Engineering+Project;Amazon+ML+Summer+School+2026&font=Fira%20Code&center=true&width=550&height=45&color=0891B2&vCenter=true&size=22&duration=3000" alt="Typing SVG" />
+
+<a href="https://www.datascienceportfol.io/ArpitKumar"><img src="https://img.shields.io/badge/Portfolio-View-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arpit-kumar-261888315/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/vtarpit"><img src="https://img.shields.io/badge/X-@vtarpit-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+
+</div>
+
+---
+
+### 🧭 About Me
+
+I'm a B.Tech Computer Science student at Bennett University who likes finding the *story* hiding inside messy data. I work primarily in **SQL, Python, and Power BI**, and I'm currently deepening my skills in **Machine Learning, Generative AI, and Agentic AI** through hands-on projects rather than just tutorials.
+
+Selected for **Amazon ML Summer School 2026** — one of a small cohort chosen nationally for applied ML training.
+
+- 🔭 Currently building **[HELIX](http://github.com/arpit-k16/Project-Helix)** — an AI/Data Engineering project
+- 📊 Recently shipped: an **IPL auction-strategy SQL analysis** across 577+ matches and a 20-table schema, and a **churn-prediction model** that flagged $776K in at-risk airline revenue across 48M+ loyalty records
+- 🌱 Currently deepening: Machine Learning • Generative AI • Agentic AI • Data Engineering
+- 🤝 Open to collaborating on: Data Analytics • AI/ML • Python projects • Open source
+- 💬 Ask me about: turning ambiguous data into a clear recommendation, or debugging a SQL query at 2 AM
+- ⚡ Fun fact: I apply the same auction-strategy thinking from my day job to actual IPL fantasy drafts
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
 </p>
 
-### Socials
+**Analytics & BI:** Power BI · Excel (PivotTables, DAX) · Tableau · Alteryx
+**Core Skills:** Statistical Analysis · Data Storytelling · KPI Development · A/B Testing Fundamentals
 
-<p align="left"> <a href="https://www.github.com/arpit-k16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/arpit-kumar-261888315/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🚀 Featured Projects
 
-<a href="http://www.github.com/arpit-k16"><img src="https://github-readme-stats.vercel.app/api?username=arpit-k16&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arpit-k16's GitHub stats" /></a>
+| Project | What it does | Stack |
+|---|---|---|
+| **[HELIX](http://github.com/arpit-k16/Project-Helix)** | AI/data engineering project — in active development | Python, AI/ML |
+| **[IPL Auction Strategy Analytics](https://github.com/arpit-k16/IPL-Sports-Analytics-Auction-Strategy)** | Queried IPL data (2008–2016) — strike rates, consistency metrics, venue impact, toss analysis — to build data-driven RCB auction recommendations | SQL |
+| **[Airline Loyalty Churn Model](https://github.com/arpit-k16/Optimizing-Airline-Loyalty-Retention-Using-Customer-Analytics-ML)** | Built a churn-prediction system across 12 customer segments, flagging 165 high-risk customers and ~$776K in at-risk CLV | SQL, Python, Scikit-learn, Power BI |
+| **Zomato Market Expansion Dashboard** | Analyzed 9,542 restaurants across 15 markets to surface 12+ high-potential expansion cities | Excel, Pivot Tables |
 
-<a href="http://www.github.com/arpit-k16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-k16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+*(Push the Zomato project to GitHub too, and add its link here, to complete the set.)*
 
-<a href="https://github.com/arpit-k16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-k16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🏆 Achievements
+
+- 🎓 Selected, **Amazon ML Summer School 2026**
+- 🥇 HackerRank: **SQL Gold Badge**, Python Silver Badge
+- 🏁 Track Winner, **CodeSlayer 2k25** (Devsphere India)
+- 🎤 Paper Presentation, **ICAIN-2025**, BITS Dubai — *"Neuro-symbolic AI Systems"*
+- 🏅 Finalist — India Innovates 2026 · Stellar Analytics Hackathon (IIT BHU) · KnowledgeQuarry (CIC, University of Delhi)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arpit-k16&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Arpit's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-k16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-k16&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top languages" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-k16&theme=react-dark&hide_border=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" alt="Activity graph"/>
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Let's connect
+
+<a href="https://www.linkedin.com/in/arpit-kumar-261888315/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
+<a href="https://x.com/vtarpit"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" width="32" height="32" alt="X"/></a>
+<a href="https://www.datascienceportfol.io/ArpitKumar"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Portfolio"/></a>
+
+*"Turning data into insights, ideas into projects, and bugs into learning opportunities."* 🚀
+
+</div>
