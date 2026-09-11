@@ -90,7 +90,6 @@ Selected for **Amazon ML Summer School 2026** — one of a small cohort chosen n
 ### 📫 Let's connect
 
 <a href="https://www.linkedin.com/in/arpit-kumar-261888315/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-<a href="https://x.com/vtarpit"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" width="32" height="32" alt="X"/></a>
 <a href="https://www.datascienceportfol.io/ArpitKumar"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Portfolio"/></a>
 
 *"Turning data into insights, ideas into projects, and bugs into learning opportunities."* 🚀
