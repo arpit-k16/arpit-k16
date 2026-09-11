@@ -71,7 +71,7 @@ Selected for **Amazon ML Summer School 2026** — one of a small cohort chosen n
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpit-k16&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Arpit's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-six-dusky-42.vercel.app/api?username=arpit-k16&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Arpit's GitHub stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=arpit-k16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
