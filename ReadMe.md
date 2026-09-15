@@ -80,7 +80,7 @@ Selected for **Amazon ML Summer School 2026** — one of a small cohort chosen n
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-k16&theme=react-dark&hide_border=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" alt="Activity graph"/>
+<img src="https://github-readme-stats-six-dusky-42.vercel.app/graph?username=arpit-k16&theme=react-dark&hide_border=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" alt="Activity graph"/>
 </p>
 
 ---
