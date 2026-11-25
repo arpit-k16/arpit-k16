@@ -274,10 +274,10 @@ def terminal():
     rows = [
         ("2026", "Selected", "Amazon ML Summer School 2026"),
         ("2026", "Finalist", "India Innovates 2026"),
+        ("2026", "Finalist", "Stellar Analytics Hackathon (IIT BHU)"),
+        ("2026", "Finalist", "KnowledgeQuarry (CIC, University of Delhi)"),
         ("2025", "Track Winner", "CodeSlayer 2k25 (Devsphere India)"),
         ("2025", "Paper", "ICAIN-2025, BITS Dubai: Neuro-symbolic AI Systems"),
-        ("----", "Finalist", "Stellar Analytics Hackathon (IIT BHU)"),
-        ("----", "Finalist", "KnowledgeQuarry (CIC, University of Delhi)"),
         ("----", "HackerRank", "SQL Gold Badge  ·  Python Silver Badge"),
     ]
     depth = 12
