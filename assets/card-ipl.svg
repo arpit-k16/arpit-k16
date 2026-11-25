@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="300" viewBox="0 0 460 300">
+<defs>
+  <linearGradient id="cf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c2436"/><stop offset="1" stop-color="#0b0f17"/></linearGradient>
+  <linearGradient id="mf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+  <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="cc"><rect x="14" y="12" width="420" height="254" rx="16"/></clipPath>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g transform="rotate(-1.5 230.0 150.0)">
+<ellipse cx="236.0" cy="286" rx="200.0" ry="9" fill="#000" opacity="0.6"/>
+<rect x="24.8" y="24.0" width="420" height="254" rx="16" fill="#140f2e"/><rect x="23.9" y="23.0" width="420" height="254" rx="16" fill="#1d133e"/><rect x="23.0" y="22.0" width="420" height="254" rx="16" fill="#25164e"/><rect x="22.1" y="21.0" width="420" height="254" rx="16" fill="#2e1a5e"/><rect x="21.2" y="20.0" width="420" height="254" rx="16" fill="#371d6e"/><rect x="20.3" y="19.0" width="420" height="254" rx="16" fill="#3f217e"/><rect x="19.4" y="18.0" width="420" height="254" rx="16" fill="#48248e"/><rect x="18.5" y="17.0" width="420" height="254" rx="16" fill="#51289d"/><rect x="17.6" y="16.0" width="420" height="254" rx="16" fill="#592cad"/><rect x="16.7" y="15.0" width="420" height="254" rx="16" fill="#622fbd"/><rect x="15.8" y="14.0" width="420" height="254" rx="16" fill="#6b33cd"/><rect x="14.9" y="13.0" width="420" height="254" rx="16" fill="#7336dd"/>
+<rect x="14" y="12" width="420" height="254" rx="16" fill="url(#cf)" stroke="url(#edge)" stroke-width="2"/>
+<g clip-path="url(#cc)"><rect x="-300" y="0" width="180" height="300" fill="url(#shine)" transform="skewX(-20)">
+  <animate attributeName="x" values="-300;760" dur="6s" repeatCount="indefinite"/></rect></g>
+<text x="38" y="58" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="800" fill="#F0F6FC">IPL Auction Strategy</text>
+<rect x="38" y="70" width="60" height="3" rx="1.5" fill="#22D3EE" filter="url(#glow)"/>
+<g filter="url(#glow)"><text x="419.0" y="121.0" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" text-anchor="end" fill="#1e1b4b">9 SEASONS</text>
+<text x="418.0" y="120.0" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" text-anchor="end" fill="#31216b">9 SEASONS</text>
+<text x="417.0" y="119.0" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" text-anchor="end" fill="#44278c">9 SEASONS</text>
+<text x="416.0" y="118.0" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" text-anchor="end" fill="#562eac">9 SEASONS</text>
+<text x="415.0" y="117.0" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" text-anchor="end" fill="#6934cd">9 SEASONS</text>
+<text x="414" y="116" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" text-anchor="end" fill="url(#mf)" >9 SEASONS</text></g>
+<text x="414" y="134" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B949E" text-anchor="end">of ball-by-ball data</text>
+<g transform="translate(0,10)"><text x="38" y="150" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D1D9">Strike rates, consistency, venue impact &amp;</text><text x="38" y="172" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D1D9">toss analysis across IPL 2008–2016 →</text><text x="38" y="194" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D1D9">data-driven RCB auction recommendations.</text></g>
+<rect x="38" y="220" width="48" height="26" rx="13" fill="#1e1b4b" stroke="#7C3AED"/><text x="62" y="238" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#C4B5FD" text-anchor="middle">SQL</text>
+</g>
+</svg>
